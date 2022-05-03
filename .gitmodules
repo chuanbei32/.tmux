@@ -7,3 +7,9 @@
 [submodule "plugins/plugins/tmux-continuum"]
 	path = plugins/plugins/tmux-continuum
 	url = https://github.com/tmux-plugins/tmux-continuum
+[submodule "plugins/plugins/tmux-gruvbox"]
+	path = plugins/plugins/tmux-gruvbox
+	url = https://github.com/egel/tmux-gruvbox.git
+[submodule "plugins/plugins/tmux-sensible"]
+	path = plugins/plugins/tmux-sensible
+	url = https://github.com/tmux-plugins/tmux-sensible.git
